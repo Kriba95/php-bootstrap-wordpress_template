@@ -1,0 +1,35 @@
+	
+				<div class="col-6">
+					<div class="reservation-holder">
+						<div class="contact-holder">
+							
+							<a href="#" class="address">
+								<i class="fa fa-map"></i> ILKANTIE 4, 00400. HELSINKI
+							</a>
+							<a href="#" class="phone">
+								<i class="fa fa-phone"></i>040 450 1946
+
+							</a>
+							<div class="social-media-holder-tablet">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-instagram"></i> </a>
+							</div>
+
+						</div>					
+						<a href="#" class="btn btn-primary">Ota yhteyttä</a>	
+					</div>
+					
+
+				</div>
+
+				<div class="col-">
+					<div class="social-media-holder">
+						<a href="#"><i class="fa fa-facebook"></i></a>
+						<a href="#"><i class="fa fa-instagram"></i> </a>
+					</div>
+							
+				</div>
+				</div>
+			</div>
+		</div>
+				
